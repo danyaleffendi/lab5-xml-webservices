@@ -10,3 +10,4 @@ Tasks completed
 - Added attribute too.
 
 1 addional thing that I tried doing  that is still left is to show author title in table. 
+Also I will try that Truncate feature later.
