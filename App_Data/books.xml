@@ -19,24 +19,6 @@
   </book>
   <book>
     <id>3</id>
-    <title>The King</title>
-    <author>
-      <firstname>Danyal</firstname>
-      <middlename>M</middlename>
-      <lastname>Effendi</lastname>
-    </author>
-  </book>
-  <book>
-    <id>4</id>
-    <title>ABC</title>
-    <author>
-      <firstname>Dany</firstname>
-      <middlename>V</middlename>
-      <lastname>Bravo</lastname>
-    </author>
-  </book>
-  <book>
-    <id>5</id>
     <title>Alchemist</title>
     <author>
       <firstname>Paolo</firstname>
@@ -46,12 +28,12 @@
     </author>
   </book>
   <book>
-    <id>6</id>
-    <title>ASDF</title>
-    <author title="Ms">
-      <firstname>Maheen</firstname>
-      <middlename>D</middlename>
-      <lastname>Effendi</lastname>
+    <id>4</id>
+    <title>Errornomics</title>
+    <author title="">
+      <firstname>Joseph </firstname>
+      <middlename>T</middlename>
+      <lastname>Hallinan</lastname>
     </author>
   </book>
 </books>
