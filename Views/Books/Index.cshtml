@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Lab5_XML_WebServices.Models.Book>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Book List</h1>
+
+
+<div>
+    <a class="btn btn-default" asp-action="Create">Add a Book</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Book Title</th>
+            <th>Title</th>
+            <th>First Name</th>
+            <th>Middle Name</th>
+            <th>Last Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@Html.DisplayFor(m => item.ID)</td>
+            <td>@Html.DisplayFor(m => item.BookTitle)</td>
+            <td>@Html.DisplayFor(m => item.Title)</td>
+            <td>@Html.DisplayFor(m => item.FirstName)</td>
+            <td>@Html.DisplayFor(m => item.MiddleName)</td>
+            <td>@Html.DisplayFor(m => item.LastName)</td>
+
+        </tr>
+        }
+    </tbody>
+</table>

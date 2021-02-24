@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <id>1</id>
+    <title>A Study in Scarlet</title>
+    <author title="Sir">
+      <firstname>Arthur</firstname>
+      <middlename>Conan</middlename>
+      <lastname>Doyle</lastname>
+    </author>
+  </book>
+  <book>
+    <id>2</id>
+    <title>Don Juan</title>
+    <author title="Lord">
+      <lastname>Byron</lastname>
+      <firstname>George</firstname>
+    </author>
+  </book>
+  <book>
+    <id>3</id>
+    <title>The King</title>
+    <author>
+      <firstname>Danyal</firstname>
+      <middlename>M</middlename>
+      <lastname>Effendi</lastname>
+    </author>
+  </book>
+  <book>
+    <id>4</id>
+    <title>ABC</title>
+    <author>
+      <firstname>Dany</firstname>
+      <middlename>V</middlename>
+      <lastname>Bravo</lastname>
+    </author>
+  </book>
+  <book>
+    <id>5</id>
+    <title>Alchemist</title>
+    <author>
+      <firstname>Paolo</firstname>
+      <middlename>
+      </middlename>
+      <lastname>Coelho</lastname>
+    </author>
+  </book>
+  <book>
+    <id>6</id>
+    <title>ASDF</title>
+    <author title="Ms">
+      <firstname>Maheen</firstname>
+      <middlename>D</middlename>
+      <lastname>Effendi</lastname>
+    </author>
+  </book>
+</books>
